@@ -10,10 +10,10 @@ Análisis exploratorio end-to-end sobre dataset de ventas de un hipermercado est
 
 ## 📊 Vista previa
 
-![Pagina1](screenshot/diagnostico_data(1).png)
-![Pagina2](screenshot/diagnostico_data(2).png)
-![Pagina3](screenshot/diagnostico_data(3).png)
-![pagina4](screenshot/diagnostico_data(4).png)
+![Pagina1](screenshot/diagnostico_data(4).png)
+![Pagina2](screenshot/diagnostico_data(3).png)
+![Pagina3](screenshot/diagnostico_data(2).png)
+![pagina4](screenshot/diagnostico_data(1).png)
 
 ## 🎯 Objetivo del análisis
 
