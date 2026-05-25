@@ -2,7 +2,7 @@
 
 Análisis exploratorio end-to-end sobre dataset de ventas de un hipermercado estadounidense. El proyecto simula un entregable real para cliente: un **informe de diagnóstico en PDF** con hallazgos accionables y recomendaciones de negocio.
 
-> **Metodología:** `Python + pandas` para EDA → `Power BI` para visualización → `Canva` para el informe ejecutivo
+> **Metodología:** `Python + pandas` → `Canva` para el informe ejecutivo
 
 ## 📄 Entregable principal
 
@@ -45,7 +45,6 @@ Identificar qué está pasando realmente en el negocio: dónde se gana, dónde s
 |-------------|-----|
 | Python 3.11 | EDA completo, limpieza, análisis bivariado |
 | pandas / matplotlib / seaborn | Transformaciones y visualizaciones exploratorias |
-| Power BI | Dashboard interactivo con filtros |
 | Canva | Informe ejecutivo PDF |
 | Dataset | [Superstore Sales — Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) |
 
